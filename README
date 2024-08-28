@@ -1,0 +1,11 @@
+com-characteristic-tools
+
+Please  let us update this file as long as we  feel it is maintainable.
+
+Python tools
+============
+collectResults.py
+Utility for observing characteristic test results over time. It uses the figures.csv files generated in Jenkins as input.
+It creates graphs over time for all measurements in that file. It is possible to use various filters to avoid having over 100 graphs created.
+Sample output here:
+/home/eadahor/transfer/perf_artf702203_part2/index.html
